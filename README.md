@@ -24,7 +24,6 @@
 
 * 🎓 Pursuing my **B.Tech in Computer Science and Engineering** at SRM Institute of Science and Technology (CGPA: 8.44)[span_0](start_span)[span_0](end_span).
 * 💡 Crafting user-centric solutions and analytical tools utilizing **Flutter, Node.js, and Python**[span_1](start_span)[span_1](end_span).
-* 🌱 Actively contributed to local environmental sustainability through community initiatives like the Marina Beach cleanup[span_2](start_span)[span_2](end_span).
 * ⚡ Gearing up for competitive programming and community tech events, including the DevsHouse '26 hackathon in Chennai.
 
 ---
