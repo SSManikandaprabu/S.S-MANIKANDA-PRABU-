@@ -1,6 +1,6 @@
 # S.S-MANIKANDA-PRABU-
 <h1 align="center">Hi there, I'm S.S Manikanda Prabu! 👋</h1>
-<h3 align="center">Computer Science Engineering Student | Founder of Zharnyx Private Limited | Tech Innovator</h3>
+<h3 align="center">Computer Science Engineering Student </h3>
 
 <p align="center">
   <a href="mailto:ssmanikandaprabu@gmail.com">
